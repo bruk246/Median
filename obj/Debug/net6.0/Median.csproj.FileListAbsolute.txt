@@ -1,0 +1,15 @@
+/Users/brukgella/Projects/Median/Median/bin/Debug/net6.0/Median
+/Users/brukgella/Projects/Median/Median/bin/Debug/net6.0/Median.deps.json
+/Users/brukgella/Projects/Median/Median/bin/Debug/net6.0/Median.runtimeconfig.json
+/Users/brukgella/Projects/Median/Median/bin/Debug/net6.0/Median.dll
+/Users/brukgella/Projects/Median/Median/bin/Debug/net6.0/Median.pdb
+/Users/brukgella/Projects/Median/Median/obj/Debug/net6.0/Median.csproj.AssemblyReference.cache
+/Users/brukgella/Projects/Median/Median/obj/Debug/net6.0/Median.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brukgella/Projects/Median/Median/obj/Debug/net6.0/Median.AssemblyInfoInputs.cache
+/Users/brukgella/Projects/Median/Median/obj/Debug/net6.0/Median.AssemblyInfo.cs
+/Users/brukgella/Projects/Median/Median/obj/Debug/net6.0/Median.csproj.CoreCompileInputs.cache
+/Users/brukgella/Projects/Median/Median/obj/Debug/net6.0/Median.dll
+/Users/brukgella/Projects/Median/Median/obj/Debug/net6.0/refint/Median.dll
+/Users/brukgella/Projects/Median/Median/obj/Debug/net6.0/Median.pdb
+/Users/brukgella/Projects/Median/Median/obj/Debug/net6.0/Median.genruntimeconfig.cache
+/Users/brukgella/Projects/Median/Median/obj/Debug/net6.0/ref/Median.dll
